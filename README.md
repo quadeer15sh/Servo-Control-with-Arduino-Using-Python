@@ -3,11 +3,11 @@
 ## Circuit Diagram
 1. Connect the servo to the arduino by connecting the power (red wire) to 5v.
 2. Ground (black/brown wire) to gnd. 
-3. Signal (yellow/orange wire) to one of the digital pwm points. 
+3. Signal (yellow/orange wire) to one of the digital pwm points. (use pin 2 or 3 preferrably)
 
 Circuit should like the one given below.
 
-![image](https://hacksterio.s3.amazonaws.com/uploads/attachments/1103236/stunning_borwo-elzing_1AxSYIVIKv.png)
+![image](https://www.makerguides.com/wp-content/uploads/2020/08/servo-motor-with-arduino-uno-wiring-diagram-schematic-circuit-tutorial-featured-image.png)
 
 ## Code Files
 1. servo.ino: runs the servo motor rotation in 180 degrees automatically
