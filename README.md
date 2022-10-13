@@ -18,6 +18,7 @@ Python libraries Required (for later projects)
 
 ```
 pip install pyserial
+pip install keyboard
 pip install numpy
 pip install mediapipe
 pip install opencv-python
